@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 侧滑菜单栏 -->
+	<color name="ldrawer_color">#FFFFFF</color>
+	<color name="actionbar_color">#bf360c</color>
+    <color name="drawer_arrow_second_color">#303f9f</color>    
+    <!-- tab库 -->
+    <color name="background_tab_pressed">#6633B5E5</color>
+</resources>
